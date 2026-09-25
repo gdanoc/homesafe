@@ -48,5 +48,5 @@ PostgreSQL, base de datos `homesafe`.
 * Rafael Mauricio Escobar Marroquín
 * Gerardo Daniel Orellana Campos
 
-* Proyecto realizado en 2025
+Proyecto realizado en 2025
 
