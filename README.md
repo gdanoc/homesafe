@@ -48,5 +48,5 @@ PostgreSQL, base de datos `homesafe`.
 * Rafael Mauricio Escobar Marroquín
 * Gerardo Daniel Orellana Campos
 
-Proyecto Técnico Científico 2025 — Software Development II — Colegio Salesiano Santa Cecilia.
+* Proyecto realizado en 2025
 
