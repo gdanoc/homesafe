@@ -1,0 +1,12 @@
+# Entorno / credenciales locales
+.env
+config.local.php
+
+# Cache de traducción generado en runtime
+translation_cache/
+
+# Archivos de sistema/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
